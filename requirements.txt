@@ -1,0 +1,14 @@
+langchain>=0.1.0
+langchain-core>=0.1.7
+langchain-openai>=0.0.8
+langgraph>=0.0.32
+openai>=1.0.0
+python-dotenv==1.0.0
+tiktoken==0.5.2
+pypdf2==3.0.1
+docx2txt==0.8
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pydantic==2.5.0
+aiofiles==23.2.0
